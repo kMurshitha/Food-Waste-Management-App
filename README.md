@@ -25,7 +25,7 @@ The Food Waste Management App is a Java-based application designed to tackle the
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/Food-Waste-Management-App.git
+   git clone https://github.com/kMurshitha/Food-Waste-Management-App
    ```
 
 2. Open the project in your Java IDE (e.g., IntelliJ IDEA or Eclipse).

@@ -1,7 +1,5 @@
 # Food Waste Management App
 
-![App Logo](app_logo.png)
-
 ## Description
 
 The Food Waste Management App is a Java-based application designed to tackle the issue of food wastage by facilitating the donation of excess food to orphanages and those in need. This app aims to bridge the gap between surplus food providers and beneficiaries, promoting sustainability and social responsibility.
